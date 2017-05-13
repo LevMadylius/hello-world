@@ -15,7 +15,7 @@ namespace test
         public Form1()
         {
             InitializeComponent();
-            MessageBox.Show("Hello world!");
+            MessageBox.Show("Hello world!","Message");
         }
     }
 }
